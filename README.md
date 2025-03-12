@@ -4,21 +4,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Welcome! </h1>
 
 ###
 
@@ -26,8 +12,8 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
+<p align="left">Faculty member in the Computer Information Systems Department at Manhattan University</p>
+<img height="150" src="https://manhattan.photoshelter.com/galleries/C0000WUuYtU31kQA/G0000x1uNTuTawm4/I0000dOpcGgFA6.A/MC-LOGO-ALT-Horiz-A-wbg"/>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
